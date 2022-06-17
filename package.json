@@ -11,5 +11,8 @@
     "url": "git+https://github.com/iaprokhorov/sf_npm2.git"
   },
   "author": "Ivan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "js-arr-test-765": "file:../../Projects/nodejs2"
+  }
 }
