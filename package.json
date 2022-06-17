@@ -1,0 +1,15 @@
+{
+  "name": "js-arr-test-765",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaprokhorov/sf_npm2.git"
+  },
+  "author": "Ivan",
+  "license": "ISC"
+}
